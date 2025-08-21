@@ -1,0 +1,18 @@
+body {
+	background: url("../img/cover.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	text-align: center;
+	color: #0fb9ca;
+	font-family: New Century Schoolbook, serif;
+}
+
+div {
+	font-size: 30px;
+	color: #0fb9ca;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
