@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+}
+
+.tabs {
+	display: flex;
+	justify-content: space-around; 
+}
+
+#counter {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font-size: 30px;
+}
+
+#context {
+	color: white;
+	font-size: 80px;
+}
+
+#restart {
+	font-size: 20px;
+	color: black;
+	background-color: white;
+	height: 60px;
+	width: 100px;
+	border-radius: 20%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	margin-top: 200px;
+}
